@@ -152,7 +152,7 @@ If you use Browser Use in your research or project, please cite:
 
 
     
-```bibtex
+```bibtex(optional)
 @software{browser_use2024,
   author = {Müller, Magnus and Žunič, Gregor},
   title = {Browser Use: Enable AI to control your browser},
